@@ -1,0 +1,17 @@
+feature,mean_abs_shap,model
+sofa_score,0.34733468,XGBoost
+lactate,0.1977193,XGBoost
+charlson_index,0.10021339,XGBoost
+creatinine,0.09670601,XGBoost
+time_to_antibiotics_h,0.09374526,XGBoost
+vasopressor_use,0.08433187,XGBoost
+mechanical_vent,0.06880144,XGBoost
+age,0.06615145,XGBoost
+map,0.052686535,XGBoost
+wbc,0.039791394,XGBoost
+resp_rate,0.03682622,XGBoost
+platelet,0.028104661,XGBoost
+temperature,0.025739387,XGBoost
+heart_rate,0.023961686,XGBoost
+bilirubin,0.018186891,XGBoost
+spo2,0.017333135,XGBoost

@@ -1,0 +1,17 @@
+feature,mean_abs_shap_ref,mean_abs_shap_cmp,shap_gap,ref_group,cmp_group
+time_to_antibiotics_h,0.08567,0.13062,0.04496,White,Black
+mechanical_vent,0.06718,0.07558,0.0084,White,Black
+charlson_index,0.09695,0.10446,0.00751,White,Black
+creatinine,0.09513,0.10131,0.00618,White,Black
+heart_rate,0.02347,0.02663,0.00316,White,Black
+temperature,0.02579,0.02729,0.0015,White,Black
+spo2,0.01687,0.01833,0.00145,White,Black
+map,0.05102,0.05156,0.00053,White,Black
+wbc,0.03949,0.03953,5e-05,White,Black
+age,0.06848,0.06815,-0.00033,White,Black
+resp_rate,0.03653,0.03606,-0.00047,White,Black
+platelet,0.02748,0.02678,-0.0007,White,Black
+bilirubin,0.01755,0.01642,-0.00113,White,Black
+lactate,0.19454,0.18991,-0.00463,White,Black
+vasopressor_use,0.08419,0.07864,-0.00555,White,Black
+sofa_score,0.35198,0.33811,-0.01387,White,Black
